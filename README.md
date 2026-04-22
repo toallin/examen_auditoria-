@@ -14,7 +14,7 @@ Descripción: El inicio de sesión ficticio se implementó sin base de datos, us
 
 **Motor de Inteligencia Artificial**  
 Evidencia:  
-![Captura del código de IA](capturas/backend.png)  
+![Captura del código de IA](capturas/backned.png)  
 Descripción: El motor de IA se mejoró con llamadas reales a un backend local. Al agregar un activo se genera automáticamente un perfil de riesgo e impacto, y al presionar el botón de recomendaciones se obtiene un tratamiento alineado con ISO 27001.
 
 2. Hallazgos
