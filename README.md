@@ -9,7 +9,7 @@ URL GitHub: [https://github.com/tuusuario/tu-repositorio](https://github.com/tuu
 
 **Login**  
 Evidencia:  
-![Captura del login](capturas/login.png)  
+![Captura del login](capturas/login1.png)  
 Descripción: El inicio de sesión ficticio se implementó sin base de datos, usando localStorage para almacenar el usuario y el estado de autenticación. Al ingresar credenciales válidas, se habilita el acceso a la aplicación principal y se muestra un mensaje de inicio de sesión exitoso.
 
 **Motor de Inteligencia Artificial**  
